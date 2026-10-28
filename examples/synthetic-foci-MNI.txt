@@ -1,0 +1,18 @@
+// Reference=MNI
+// SYNTHETIC DATA: file-format exercise only; no empirical observations
+// SYNTHETIC_S01: merged related contrasts C01a and C01b, same sample
+// Subjects=20
+-42	18	6
+30	-24	48
+-40	20	8
+32	-22	46
+
+// SYNTHETIC_S02: independent synthetic sample 02
+// Subjects=24
+-36	12	12
+24	-30	54
+
+// SYNTHETIC_S03: independent synthetic sample 03
+// Subjects=18
+-30	-60	28
+36	-54	30
